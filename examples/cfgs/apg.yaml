@@ -1,0 +1,9 @@
+defaults:
+  action_size: 3
+  num_evals: 400
+  episode_length: 1000
+  truncation_length: 64
+  normalize_observations: False
+  action_repeat: 1
+  learning_rate: 0.003
+  num_envs: 8
